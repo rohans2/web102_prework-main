@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='![Imgur Image](https://imgur.com/a/8rT7UWS)' title='Video Walkthrough' width='200px' alt='Video Walkthrough' />
-
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/8rT7UWS"  ><a href="//imgur.com/a/8rT7UWS">SeaMonster Submission</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  

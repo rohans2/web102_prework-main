@@ -19,6 +19,7 @@ The following **optional** features are implemented:
 
 * [✓] A search bar is implemented which filters out the game cards according to the user input.
 * [✓] The Our Games link in the nav bar at the top of the page directly takes the user to the Our Games section.
+* [✓] Will continue improving the styling of the website.
 
 ## Video Walkthrough
 
